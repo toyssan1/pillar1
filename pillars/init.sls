@@ -1,2 +1,2 @@
 attributes:
-  foo_version: 4
+  foo_version: base
